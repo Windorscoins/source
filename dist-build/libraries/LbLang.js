@@ -1,0 +1,1 @@
+'use strict';class LbLang{constructor(){}}module['exports']=new LbLang();

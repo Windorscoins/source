@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"windorscoin.transfers"},{"v":2,"key":{"_fts":"text","_ftsx":1},"name":"memberid_text","default_language":"english","language_override":"language","background":true,"weights":{"memberid":1},"ns":"windorscoin.transfers","textIndexVersion":3}]}

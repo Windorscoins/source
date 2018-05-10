@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"windorscoinV2.btctransactions"},{"v":2,"key":{"_fts":"text","_ftsx":1},"name":"memberid_text","ns":"windorscoinV2.btctransactions","weights":{"memberid":1},"default_language":"english","language_override":"language","background":true,"textIndexVersion":3}]}
